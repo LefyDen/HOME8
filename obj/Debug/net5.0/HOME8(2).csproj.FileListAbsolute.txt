@@ -1,0 +1,16 @@
+D:\Beatroot\HOME8(2)\bin\Debug\net5.0\HOME8(2).exe
+D:\Beatroot\HOME8(2)\bin\Debug\net5.0\HOME8(2).deps.json
+D:\Beatroot\HOME8(2)\bin\Debug\net5.0\HOME8(2).runtimeconfig.json
+D:\Beatroot\HOME8(2)\bin\Debug\net5.0\HOME8(2).runtimeconfig.dev.json
+D:\Beatroot\HOME8(2)\bin\Debug\net5.0\HOME8(2).dll
+D:\Beatroot\HOME8(2)\bin\Debug\net5.0\ref\HOME8(2).dll
+D:\Beatroot\HOME8(2)\bin\Debug\net5.0\HOME8(2).pdb
+D:\Beatroot\HOME8(2)\obj\Debug\net5.0\HOME8(2).csproj.AssemblyReference.cache
+D:\Beatroot\HOME8(2)\obj\Debug\net5.0\HOME8(2).GeneratedMSBuildEditorConfig.editorconfig
+D:\Beatroot\HOME8(2)\obj\Debug\net5.0\HOME8(2).AssemblyInfoInputs.cache
+D:\Beatroot\HOME8(2)\obj\Debug\net5.0\HOME8(2).AssemblyInfo.cs
+D:\Beatroot\HOME8(2)\obj\Debug\net5.0\HOME8(2).csproj.CoreCompileInputs.cache
+D:\Beatroot\HOME8(2)\obj\Debug\net5.0\HOME8(2).dll
+D:\Beatroot\HOME8(2)\obj\Debug\net5.0\ref\HOME8(2).dll
+D:\Beatroot\HOME8(2)\obj\Debug\net5.0\HOME8(2).pdb
+D:\Beatroot\HOME8(2)\obj\Debug\net5.0\HOME8(2).genruntimeconfig.cache
